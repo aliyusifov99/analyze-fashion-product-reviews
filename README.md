@@ -1,0 +1,2 @@
+# analyze-fashion-product-reviews
+Clothing brands, shops, retailers, and E-commerce sites can greatly benefit from understanding how their products are received and where they can improve. A lot of the relevant data is present in textual form, in the shape of social media posts, feedback e-mails, etc.  Here it was analyzed fashion product reviews, and predicted a numeric rating as well as whether or not the reviewer would recommend the product.
